@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-nativeaudio",
-  "version": "3.0.4",
+  "name": "capacitor-cordova-plugin-lowlatencyaudio",
+  "version": "2.0.0",
   "description": "Cordova/PhoneGap Plugin for low latency Native Audio Playback, must have for HTML5 games",
   "cordova": {
-    "id": "com.rjfun.cordova.plugin.lowlatencyaudio",
+    "id": "capacitor-cordova-plugin-lowlatencyaudio",
     "platforms": [
       "android",
       "ios"
