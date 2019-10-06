@@ -10,8 +10,7 @@
 
 	<license>MIT</license>
 	<keywords>audio,fx,music,mp3,game</keywords>
-    <repo>https://github.com/floatinghotpot/cordova-plugin-lowlatencyaudio.git</repo>
-    <issue>https://github.com/floatinghotpot/cordova-plugin-lowlatencyaudio/issues</issue>
+    <repo>https://github.com/veloce/cordova-plugin-nativeaudio.git</repo>
 
 	<engines>
 	    <engine name="cordova" version=">=3.0" />
@@ -31,9 +30,6 @@
         </config-file>
 
         <source-file src="src/android/LowLatencyAudio.java" target-dir="src/com/rjfun/cordova/plugin" />
-        <source-file src="src/android/LowLatencyAudioAsset.java" target-dir="src/com/rjfun/cordova/plugin" />
-        <source-file src="src/android/PolyphonicVoice.java" target-dir="src/com/rjfun/cordova/plugin" />
-
      </platform>
 
      <!-- ios -->
